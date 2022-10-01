@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984219077553",
+    "project_id": "mechatronia-5d856",
+    "storage_bucket": "mechatronia-5d856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984219077553:android:0aab6f8a4a5f127764cb90",
+        "android_client_info": {
+          "package_name": "com.mechatronia.user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984219077553-h5pqsq9b290mksqbrpeipnrs9vhkoasc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2DuBAA3M_vaQjDLlQdogRZXdOS1Nrxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984219077553-h5pqsq9b290mksqbrpeipnrs9vhkoasc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
